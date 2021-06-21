@@ -11,6 +11,9 @@
   git pull https://github.com/vinbudii/Python-FaceRecognition.git
   ```
 - Install Python
+  ```
+  https://www.python.org/downloads/
+  ```
 - Install Computer Vision
   ```
   pip install opencv-python
