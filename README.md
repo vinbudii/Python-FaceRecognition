@@ -1,5 +1,3 @@
-  
-<p align="center"><img src="public/img/logo/logo-dark.png" width="300"></p>
 <h1 align="center">Face Recognition For Attendance</h1>
 
 # Python-FaceRecognition
