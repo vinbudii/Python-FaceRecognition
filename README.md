@@ -28,7 +28,7 @@
   ```
   pip install DateTime
   ```
-- Install Computer Vision
+- Install 
   ```
   pip install tk
   ```
