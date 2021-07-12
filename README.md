@@ -16,20 +16,19 @@
   ```
   pip install opencv-python
   ```
-- Install Computer Vision
+- Install Numpy
   ```
   pip install numpy
   ```
-- Install Computer Vision
+- Install Image
   ```
   pip install image
   ```
-- Install Computer Vision
+- Install DateTime
   ```
   pip install DateTime
   ```
-- Install 
+- Install Tkinter
   ```
   pip install tk
   ```
-
